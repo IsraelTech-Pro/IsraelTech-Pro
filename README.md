@@ -2,15 +2,15 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Expense Tracker(React)</b>
+- <b>React-Tailwind-Pixabay-Gallery(React)</b>
      
-  - [View Live -Expense Tracker (React)](https://israeltech-pro.github.io/expense-tracker-react/)
-  - [View Repository -Expense Tracker](https://github.com/IsraelTech-Pro/-react-tailwind-pixabay-gallery.git)
+  - [View Live -react-tailwind-pixabay-gallery(React)](https://israeltech-pro.github.io/-react-tailwind-pixabay-gallery/)
+  - [View Repository -react-tailwind-pixabay-gallery(React)](https://github.com/IsraelTech-Pro/-react-tailwind-pixabay-gallery.git)
  
-  - <b>React-Tailwind-Pixabay-Gallery(React)</b>
+  - <b>Expense Tracker(React)</b>
      
-  - [View Live -Expense Tracker (React)](https://israeltech-pro.github.io/expense-tracker-react/)
-  - [View Repository -Expense Tracker](https://github.com/IsraelTech-Pro/expense-tracker-react.git)
+  - [View Live -react-tailwind-pixabay-gallery(React)](https://israeltech-pro.github.io/expense-tracker-react/)
+  - [View Repository -react-tailwind-pixabay-gallery](https://github.com/IsraelTech-Pro/expense-tracker-react.git)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
