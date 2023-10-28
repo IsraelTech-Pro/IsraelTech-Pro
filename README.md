@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Web Application projects(React)</b>
-     <b><i>Expense Tracker</b></i>
-  - [Expense Tracker (React)](https://israeltech-pro.github.io/expense-tracker-react/)
+- <b>Expense Tracker(React)</b>
+     
+  - [View Live -Expense Tracker (React)](https://israeltech-pro.github.io/expense-tracker-react/)
   - [View Repository -Expense Tracker](https://github.com/IsraelTech-Pro/expense-tracker-react.git)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
