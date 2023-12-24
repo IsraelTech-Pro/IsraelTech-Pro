@@ -2,18 +2,16 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>React-Tailwind-Pixabay-Gallery(React)</b>
-     
+- <b>REACT JS</b>`
+ - <b>React-Tailwind-Pixabay-Gallery(React)</b>
   - [View Live -react-tailwind-pixabay-gallery(React)](https://israeltech-pro.github.io/-react-tailwind-pixabay-gallery/)
   - [View Repository -react-tailwind-pixabay-gallery(React)](https://github.com/IsraelTech-Pro/-react-tailwind-pixabay-gallery.git)
  
-- <b>Expense Tracker(React)</b>
-     
+ - <b>Expense Tracker(React)</b>
   - [View Live -react-tailwind-pixabay-gallery(React)](https://israeltech-pro.github.io/expense-tracker-react/)
   - [View Repository -react-tailwind-pixabay-gallery](https://github.com/IsraelTech-Pro/expense-tracker-react.git)
   
-- <b> image gallery app with the Pixabay API(React)</b>
-     
+ - <b> image gallery app with the Pixabay API(React)</b> 
   - [View Live -image gallery app with the Pixabay API(React)](https://israeltech-pro.github.io/Pixabay-image-finder/)
   - [View Repository -image gallery app with the Pixabay API](https://github.com/IsraelTech-Pro/Pixabay-image-finder.git)
     
