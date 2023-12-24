@@ -3,9 +3,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>REACT JS</b>`
- - <b>React-Tailwind-Pixabay-Gallery(React)</b>
-  - [View Live -react-tailwind-pixabay-gallery(React)](https://israeltech-pro.github.io/-react-tailwind-pixabay-gallery/)
-  - [View Repository -react-tailwind-pixabay-gallery(React)](https://github.com/IsraelTech-Pro/-react-tailwind-pixabay-gallery.git)
+  - <b>React-Tailwind-Pixabay-Gallery(React)</b>
+    - [View Live -react-tailwind-pixabay-gallery(React)](https://israeltech-pro.github.io/-react-tailwind-pixabay-gallery/)
+    - [View Repository -react-tailwind-pixabay-gallery(React)](https://github.com/IsraelTech-Pro/-react-tailwind-pixabay-gallery.git)
  
  - <b>Expense Tracker(React)</b>
   - [View Live -react-tailwind-pixabay-gallery(React)](https://israeltech-pro.github.io/expense-tracker-react/)
