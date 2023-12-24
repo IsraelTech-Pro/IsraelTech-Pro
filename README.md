@@ -4,17 +4,22 @@
 
 - <b>REACT JS</b>`
   - <b>React-Tailwind-Pixabay-Gallery(React)</b>
+  <br>
      [View Live -react-tailwind-pixabay-gallery(React)](https://israeltech-pro.github.io/-react-tailwind-pixabay-gallery/)
     <br>
      [View Repository -react-tailwind-pixabay-gallery(React)](https://github.com/IsraelTech-Pro/-react-tailwind-pixabay-gallery.git)
  
  - <b>Expense Tracker(React)</b>
-  - [View Live -react-tailwind-pixabay-gallery(React)](https://israeltech-pro.github.io/expense-tracker-react/)
-  - [View Repository -react-tailwind-pixabay-gallery](https://github.com/IsraelTech-Pro/expense-tracker-react.git)
-  
- - <b> image gallery app with the Pixabay API(React)</b> 
-  - [View Live -image gallery app with the Pixabay API(React)](https://israeltech-pro.github.io/Pixabay-image-finder/)
-  - [View Repository -image gallery app with the Pixabay API](https://github.com/IsraelTech-Pro/Pixabay-image-finder.git)
+  <br>
+    [View Live -react-tailwind-pixabay-gallery(React)](https://israeltech-pro.github.io/expense-tracker-react/)
+    <br>
+    [View Repository -react-tailwind-pixabay-gallery](https://github.com/IsraelTech-Pro/expense-tracker-react.git)
+   
+ - <b> image gallery app with the Pixabay API(React)</b>
+ -  <br>
+    [View Live -image gallery app with the Pixabay API(React)](https://israeltech-pro.github.io/Pixabay-image-finder/)
+     <br>
+    [View Repository -image gallery app with the Pixabay API](https://github.com/IsraelTech-Pro/Pixabay-image-finder.git)
     
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
