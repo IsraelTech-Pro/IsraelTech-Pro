@@ -13,6 +13,14 @@
   - [View Repository -react-tailwind-pixabay-gallery](https://github.com/IsraelTech-Pro/expense-tracker-react.git)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  
+   - <b> image gallery app with the Pixabay API(React)</b>
+     
+  - [View Live -image gallery app with the Pixabay API(React)](https://israeltech-pro.github.io/Pixabay-image-finder/)
+  - [View Repository -image gallery app with the Pixabay API](https://github.com/IsraelTech-Pro/Pixabay-image-finder.git)
+  - 
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
