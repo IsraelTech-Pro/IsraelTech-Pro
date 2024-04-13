@@ -25,7 +25,7 @@
        [View Repository -react-tailwind-pixabay-gallery]
        (https://github.com/IsraelTech-Pro/expense-tracker-react.git)
   <br>
-    - <b> image gallery app with the Pixabay API(React)</b><br>
+    - <b>image gallery app with the Pixabay API(React)</b><br>
           [View Live -image gallery app with the Pixabay API(React)]
           https://israeltech-pro.github.io/Pixabay-image-finder/)
        <br>
