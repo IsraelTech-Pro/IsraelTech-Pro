@@ -11,9 +11,7 @@
      [View Repository -Paulina Family Bakery(React)]
      (https://github.com/IsraelTech-Pro/paulinafamilybakery)
 
-   - <b>React-Tailwind-Pixabay-Gallery(React)</b>
-<br>
-
+   - <b>React-Tailwind-Pixabay-Gallery(React)</b><br>
      [View Live -react-tailwind-pixabay-gallery(React)]
      (https://israeltech-pro.github.io/-react-tailwind-pixabay-gallery/)
     <br>
