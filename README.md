@@ -26,11 +26,11 @@
        (https://github.com/IsraelTech-Pro/expense-tracker-react.git)
   <br>
     - <b> image gallery app with the Pixabay API(React)</b><br>
-        [View Live -image gallery app with the Pixabay API(React)]
-        (https://israeltech-pro.github.io/Pixabay-image-finder/)
+          [View Live -image gallery app with the Pixabay API(React)]
+          https://israeltech-pro.github.io/Pixabay-image-finder/)
        <br>
-        [View Repository -image gallery app with the Pixabay API]
-        (https://github.com/IsraelTech-Pro/Pixabay-image-finder.git)
+          [View Repository -image gallery app with the Pixabay API]
+          (https://github.com/IsraelTech-Pro/Pixabay-image-finder.git)
     
 - <b>Full Stack Web App (PHP,Javascript,Html,Css,Jquary,Ajax)</b>
   - [Ecommerce website](https://github.com/IsraelTech-Pro/FidomStore) <b><i>(Fidomstore)</b></i>
