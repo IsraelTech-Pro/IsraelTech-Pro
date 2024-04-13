@@ -18,13 +18,13 @@
       (https://github.com/IsraelTech-Pro/-react-tailwind-pixabay-gallery.git)
 
    <br>
-   - <b>Expense Tracker(React)</b><br>
-     [View Live -react-tailwind-pixabay-gallery(React)]
-     (https://israeltech-pro.github.io/expense-tracker-react/)
-    <br>
-     [View Repository -react-tailwind-pixabay-gallery]
-     (https://github.com/IsraelTech-Pro/expense-tracker-react.git)
-
+    - <b>Expense Tracker(React)</b><br>
+      [View Live -react-tailwind-pixabay-gallery(React)]
+      (https://israeltech-pro.github.io/expense-tracker-react/)
+     <br>
+      [View Repository -react-tailwind-pixabay-gallery]
+      (https://github.com/IsraelTech-Pro/expense-tracker-react.git)
+  <br>
    - <b> image gallery app with the Pixabay API(React)</b><br>
      [View Live -image gallery app with the Pixabay API(React)]
      (https://israeltech-pro.github.io/Pixabay-image-finder/)
