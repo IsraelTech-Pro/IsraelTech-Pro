@@ -18,7 +18,7 @@
       (https://github.com/IsraelTech-Pro/-react-tailwind-pixabay-gallery.git)
 
       <br>
-     - <b>Expense Tracker(React)</b><br>
+   - <b>Expense Tracker(React)</b><br>
       [View Live -react-tailwind-pixabay-gallery(React)]
       (https://israeltech-pro.github.io/expense-tracker-react/)
        <br>
