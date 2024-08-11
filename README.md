@@ -1,4 +1,4 @@
-<h1>Hi, I'm Israel! <br/><a href="https://github.com/IsraelTech-Pro">Frontend Developer</a>, <a href="https://www.youtube.com/channel/UCZKOXI8IIgMt7t-kiokPpRg">YouTuber</a></h1>
+<h1>Hi, I'm Israel! <br/><a href="https://github.com/IsraelTech-Pro">Softwer Developer</a>, <a href="https://www.youtube.com/channel/UCZKOXI8IIgMt7t-kiokPpRg">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improving my skills in frontend development, particularly focusing on mastering React.js and enhancing my understanding of modern web development principles.
 - 🌱 I’m currently learning new techniques and best practices in responsive web design and exploring advanced JavaScript concepts to deepen my knowledge and capabilities as a developer.
-- 👯 I’m looking to collaborate on open-source projects related to frontend development, especially those utilizing React.js, where I can contribute my skills and learn from experienced developers in the community.
+- 👯 I’m looking to collaborate on open-source projects related to Web development, especially those utilizing React.js and Blazor,  where I can contribute my skills and learn from experienced developers in the community.
 - 🤔 I’m looking for help with staying updated on the latest trends and technologies in frontend development, as well as guidance on transitioning from self-taught to professional developer roles.
 - 💬 Ask me about my journey as a self-taught developer, my favorite resources for learning frontend development, or tips for building responsive and user-friendly web applications.
 - 📫 How to reach me: Feel free to connect with me on LinkedIn (www.linkedin.com/in/israel-opoku-55ab5626b) or reach out via email at israelopoku360@gmail.com.
