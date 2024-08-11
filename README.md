@@ -1,4 +1,4 @@
-<h1>Hi, I'm Israel! <br/><a href="https://github.com/IsraelTech-Pro">Softwer Developer</a>, <a href="https://www.youtube.com/channel/UCZKOXI8IIgMt7t-kiokPpRg">YouTuber</a></h1>
+<h1>Hi, I'm Israel! <br/><a href="https://github.com/IsraelTech-Pro">Web Developer</a>, <a href="https://www.youtube.com/channel/UCZKOXI8IIgMt7t-kiokPpRg">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
