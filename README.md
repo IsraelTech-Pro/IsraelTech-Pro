@@ -36,6 +36,10 @@
 - <b>Full Stack Web App (PHP,Javascript,Html,Css,Jquary,Ajax)</b>
   - [Ecommerce website](https://github.com/IsraelTech-Pro/FidomStore) <b><i>(Fidomstore)</b></i>
   - [Ecommerce website](https://github.com/IsraelTech-Pro/EccommerceSite) <b><i>(Ecommerce Site)</b></i>
+  
+- **Full Stack Web App (Blazor WebAssembly, ASP.NET Core, MySQL)**
+  - [TaskManagerApp](https://github.com/IsraelTech-Pro/Task-Manager-App.git) <b><i>(Task Management Application)</i></b>
+
 
 Here are some ideas to get you started:
 
