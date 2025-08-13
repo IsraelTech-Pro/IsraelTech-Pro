@@ -1,7 +1,18 @@
-# Hi, I'm Israel! 
+# Hi, I'm Israel!  
 ### [Web Developer](https://israeltech.onrender.com/) | [YouTuber](https://www.youtube.com/channel/UCZKOXI8IIgMt7t-kiokPpRg)
 
-## 👨‍💻 Development Projects:
+---
+
+## 👨‍💻 Development Projects
+
+### **🚖 Flutter + Supabase Full Stack App**
+- **[KP Ride — Ride-Hailing Platform (Bolt-like)](https://github.com/IsraelTech-Pro/kp-ride-showcase)**<br>
+  A complete ride-hailing system with **Rider App**, **Driver App**, and **Admin Dashboard**.  
+  Built using **Flutter**, **Supabase**, **Google Maps API**, and **Google Places API**.  
+  Features real-time location tracking, ride requests, earnings dashboard, and admin management tools.  
+  *(Showcase version — no API keys)*
+
+---
 
 ### **React JS**
 
@@ -17,26 +28,32 @@
 - **[Image Gallery App with the Pixabay API](https://github.com/IsraelTech-Pro/Pixabay-image-finder.git)**<br>
   [View Live](https://israeltech-pro.github.io/Pixabay-image-finder/) | [View Repository](https://github.com/IsraelTech-Pro/Pixabay-image-finder.git)
 
+---
+
 ### **Full Stack Web App (PHP, JavaScript, HTML, CSS, jQuery, Ajax)**
 
-- **[Ecommerce Website - Fidomstore](https://github.com/IsraelTech-Pro/FidomStore)**<br>
-  <b><i>(Fidomstore)</i></b>
-  
-- **[Ecommerce Website - Ecommerce Site](https://github.com/IsraelTech-Pro/EccommerceSite)**<br>
-  <b><i>(Ecommerce Site)</i></b>
+- **[Ecommerce Website - Fidomstore](https://github.com/IsraelTech-Pro/FidomStore)**  
+  *(Ecommerce Platform)*
+
+- **[Ecommerce Website - Ecommerce Site](https://github.com/IsraelTech-Pro/EccommerceSite)**  
+  *(Ecommerce Platform)*
+
+---
 
 ### **Full Stack Web App (Blazor WebAssembly, ASP.NET Core, MySQL)**
 
-- **[TaskManagerApp](https://github.com/IsraelTech-Pro/Task-Manager-App.git)**<br>
-  <b><i>(Task Management Application)</i></b>
+- **[TaskManagerApp](https://github.com/IsraelTech-Pro/Task-Manager-App.git)**  
+  *(Task Management Application)*
 
-## Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on improving my skills in frontend development, particularly focusing on mastering React.js and enhancing my understanding of modern web development principles.
-- 🌱 I’m currently learning new techniques and best practices in responsive web design and exploring advanced JavaScript concepts to deepen my knowledge and capabilities as a developer.
-- 👯 I’m looking to collaborate on open-source projects related to Web development, especially those utilizing React.js and Blazor, where I can contribute my skills and learn from experienced developers in the community.
-- 🤔 I’m looking for help with staying updated on the latest trends and technologies in frontend development, as well as guidance on transitioning from self-taught to professional developer roles.
-- 💬 Ask me about my journey as a self-taught developer, my favorite resources for learning frontend development, or tips for building responsive and user-friendly web applications.
-- 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/israel-opoku-55ab5626b) or reach out via email at [israelopoku360@gmail.com](mailto:israelopoku360@gmail.com).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm passionate about photography and enjoy capturing moments in nature whenever I'm not coding.
+## 🌟 About Me
+
+- 🔭 Currently enhancing my **frontend expertise** in React.js and expanding my knowledge of modern web architecture.
+- 🌱 Exploring **advanced JavaScript** concepts and **responsive design** techniques.
+- 👯 Open to collaborating on **React.js** and **Blazor** open-source projects.
+- 💬 Ask me about my self-taught developer journey, building responsive apps, or integrating APIs.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/israel-opoku-55ab5626b) or email [israelopoku360@gmail.com](mailto:israelopoku360@gmail.com).
+- ⚡ Fun fact: I’m also a photographer, capturing moments in nature when I’m not coding.
+
+---
