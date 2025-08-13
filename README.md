@@ -1,66 +1,88 @@
-<img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" alt="Israel Opoku" width="120" style="border-radius: 50%;" />
-
 # Hi, I'm Israel!  
-### [Web Developer](https://israeltech.onrender.com/) | Flutter & React Specialist  
-
-I’m a self-taught **Full Stack Developer** with a strong focus on **Flutter**, **React**, and modern web technologies.  
-I love building **real-world, production-ready applications** that solve problems — from ride-hailing platforms to ecommerce stores.  
+### [🌐 Web Developer](https://israeltech.onrender.com/) | 📱 Flutter Developer | 🎥 Content Creator
 
 ---
 
 ## 🚀 Featured Projects
 
-### **🚖 KP Ride — Ride-Hailing Platform**
-**[Repository (Showcase)](https://github.com/IsraelTech-Pro/kp-ride-showcase)**  
-A Bolt-like ride-hailing system with:
-- **Rider App** (book rides, live tracking, payments)  
-- **Driver App** (accept rides, view earnings, navigation)  
-- **Admin Dashboard** (manage users, rides, payments)  
-Tech: Flutter, Supabase, Google Maps API, Google Places API, REST APIs  
-![KP Ride Screenshot](assets/screenshots/rider-home.png)
+### **🚖 Flutter + Supabase Full Stack App**
+- **[KP Ride — Ride-Hailing Platform (Bolt-like)](https://github.com/IsraelTech-Pro/kp-ride-showcase)**  
+  A complete ride-hailing ecosystem with:
+  - **Rider App** (Flutter + Google Maps + Paystack/Flutterwave Payments)
+  - **Driver App** (Flutter + Real-Time Ride Requests)
+  - **Admin Dashboard** (Web, Flutter, Supabase Auth & DB)
+  
+  **Key Features:**
+  - Real-time location tracking
+  - Google Places API for pickup & drop-off
+  - Secure payments via Paystack/Flutterwave
+  - Role-based authentication (Rider/Driver/Admin)
+  - Admin analytics dashboard
+
+  *(This is a **showcase version** — API keys removed for security)*
 
 ---
 
-### **🌐 Live Portfolio & Client Work**
-- **[Baah Gyan Richmond Portfolio](https://baahgyanrichmond.vercel.app/)**  
-- **[Developer Portfolio Template](https://devportfolio-zfvr.onrender.com/)**  
-- **[Biz Connect — Business Directory](https://biz-connect-nrgs.onrender.com/)**  
-- **[React Modern Shop](https://react-modernshop-xxod.vercel.app/)**  
-- **[Samuel Kojokpor Xah Portfolio](https://samuelkojokporxah.vercel.app/)**  
+## 💻 Web Development Projects
+
+### **React.js Applications**
+- **[Paulina Family Bakery](https://github.com/IsraelTech-Pro/paulinafamilybakery)**  
+  🍰 [View Live](https://israeltech-pro.github.io/paulinafamilybakery/) | 📂 [Repository](https://github.com/IsraelTech-Pro/paulinafamilybakery)
+
+- **[React Tailwind Pixabay Gallery](https://github.com/IsraelTech-Pro/-react-tailwind-pixabay-gallery.git)**  
+  🖼️ [View Live](https://israeltech-pro.github.io/-react-tailwind-pixabay-gallery/) | 📂 [Repository](https://github.com/IsraelTech-Pro/-react-tailwind-pixabay-gallery.git)
+
+- **[Expense Tracker](https://github.com/IsraelTech-Pro/expense-tracker-react.git)**  
+  💰 [View Live](https://israeltech-pro.github.io/expense-tracker-react/) | 📂 [Repository](https://github.com/IsraelTech-Pro/expense-tracker-react.git)
+
+- **[Image Gallery (Pixabay API)](https://github.com/IsraelTech-Pro/Pixabay-image-finder.git)**  
+  🖼️ [View Live](https://israeltech-pro.github.io/Pixabay-image-finder/) | 📂 [Repository](https://github.com/IsraelTech-Pro/Pixabay-image-finder.git)
 
 ---
 
-### **🛒 Ecommerce Platforms**
-- **[Fidomstore](https://store.fidomhub.com/login.php)** *(Admin: admin / password123)*  
-  [Repository](https://github.com/IsraelTech-Pro/FidomStore) | PHP, MySQL, jQuery, Ajax  
-- **[Ecommerce Site](https://github.com/IsraelTech-Pro/EccommerceSite)** | PHP, MySQL  
+### **Full Stack Web Applications (PHP, JavaScript, HTML, CSS, jQuery, Ajax)**
+- **[Ecommerce Website - Fidomstore](https://github.com/IsraelTech-Pro/FidomStore)**  
+  🛒 [Live Demo](https://store.fidomhub.com/login.php)  
+  *(Admin Login: `admin` / `password123`)*
+
+- **[Ecommerce Website - Ecommerce Site](https://github.com/IsraelTech-Pro/EccommerceSite)**  
+  🛍️ *(PHP + MySQL + jQuery)*
 
 ---
 
-### **⚛ React Projects**
-- **[Paulina Family Bakery](https://israeltech-pro.github.io/paulinafamilybakery/)** | [Repository](https://github.com/IsraelTech-Pro/paulinafamilybakery)  
-- **[Tailwind + Pixabay Gallery](https://israeltech-pro.github.io/-react-tailwind-pixabay-gallery/)** | [Repository](https://github.com/IsraelTech-Pro/-react-tailwind-pixabay-gallery.git)  
-- **[Expense Tracker](https://israeltech-pro.github.io/expense-tracker-react/)** | [Repository](https://github.com/IsraelTech-Pro/expense-tracker-react.git)  
-- **[Pixabay Image Finder](https://israeltech-pro.github.io/Pixabay-image-finder/)** | [Repository](https://github.com/IsraelTech-Pro/Pixabay-image-finder.git)  
+### **Full Stack Web App (Blazor WebAssembly, ASP.NET Core, MySQL)**
+- **[Task Manager App](https://github.com/IsraelTech-Pro/Task-Manager-App.git)**  
+  ✅ *(Task Management System)*
 
 ---
 
-### **📋 Task Management**
-- **[Task Manager App](https://github.com/IsraelTech-Pro/Task-Manager-App.git)** | Blazor WebAssembly, ASP.NET Core, MySQL  
+## 🌐 Additional Live Projects
+Here are more live applications I’ve built:  
+- **[Baah Gyan Richmond Portfolio](https://baahgyanrichmond.vercel.app/)**
+- **[Developer Portfolio Template](https://devportfolio-zfvr.onrender.com/)**
+- **[Biz Connect](https://biz-connect-nrgs.onrender.com/)**
+- **[Modern React Shop](https://react-modernshop-xxod.vercel.app/)**
+- **[Samuel Kojokpor Portfolio](https://samuelkojokporxah.vercel.app/)**
 
 ---
 
-## 📌 Skills & Technologies
-- **Languages & Frameworks**: Flutter, React.js, PHP, ASP.NET Core, JavaScript, TypeScript  
-- **Databases**: MySQL, Supabase, Firebase, MongoDB  
-- **Tools & APIs**: Google Maps, Paystack, Flutterwave, Stripe, REST APIs, Git, Docker  
-- **Other**: Responsive Design, UI/UX, Payment Integration, Push Notifications  
+## 💡 About Me
+- 🔭 Constantly improving my skills in **React.js**, **Flutter**, and **modern web architecture**.
+- 🌱 Learning advanced **JavaScript**, **responsive UI/UX design**, and **scalable app development**.
+- 👯 Open to collaborating on **React**, **Flutter**, and **Blazor** projects.
+- 💬 Ask me about my self-taught developer journey or API integrations.
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/israel-opoku-55ab5626b) or email [israelopoku360@gmail.com](mailto:israelopoku360@gmail.com).
+- ⚡ Fun fact: When I’m not coding, I’m capturing nature through photography.
 
 ---
 
-## 📫 Connect with Me
-- **Portfolio**: [israeltech.onrender.com](https://israeltech.onrender.com/)  
-- **LinkedIn**: [Israel Opoku](https://www.linkedin.com/in/israel-opoku-55ab5626b)  
-- **Email**: [israelopoku360@gmail.com](mailto:israelopoku360@gmail.com)  
+## 🛠 Tech Stack
+**Languages:** JavaScript (ES6+), PHP, C#, Dart  
+**Frameworks/Libraries:** React.js, Flutter, Blazor WebAssembly, Laravel  
+**Databases:** MySQL, Supabase, Firestore, MongoDB  
+**Tools:** Git, GitHub, VS Code, Figma, Postman  
+**Other Skills:** REST API integration, Payment Gateway Integration (Paystack, Flutterwave, Stripe), Google Maps/Places APIs, Push Notifications, Caching & Performance Optimization
 
-⚡ *"I build apps that people actually use."*
+---
+
+✨ _"Building functional, scalable, and user-friendly applications that make an impact."_  
